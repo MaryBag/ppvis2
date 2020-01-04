@@ -1,0 +1,6 @@
+framework module Pods_pvis_2 {
+  umbrella header "Pods-pvis_2-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_pvis_2_pvis_2UITests {
+  umbrella header "Pods-pvis_2-pvis_2UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
